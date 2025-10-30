@@ -49,3 +49,5 @@ SEQUENCE DIAGRAM
 
 
 # RESULT:
+Thus, the problem statement & SRS document studied.And the UML diagram of library management system drawn.
+ 
